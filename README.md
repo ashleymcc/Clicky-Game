@@ -1,5 +1,5 @@
 # Clicky-Game
-[img]FrontPage.png
+![](FrontPage.png)
 
 This project was bootstrapped with Create React App.
 
